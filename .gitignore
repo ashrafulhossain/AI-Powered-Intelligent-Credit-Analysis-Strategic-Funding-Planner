@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +206,30 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+# Office temp files
+~$*
+
+# Python venv and sensitive files
+venv/
+.env
+
+# Python build artifacts
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+~
+venv/
+.env
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+Thumbs.db
+>>>>>>> 0261bad (Add new project files without deleting existing GitHub content)
